@@ -2,6 +2,7 @@
 ### **Requirements**
 1. Python installed
 ### **How To**
+> You can create virtual environment before begin
 1. Clone repository
 ```
 git clone https://github.com/ludesdeveloper/ludes_discord_python_web.git
